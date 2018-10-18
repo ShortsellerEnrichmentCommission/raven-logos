@@ -12,7 +12,7 @@
 ![1024_png](https://github.com/ShortsellerEnrichmentCommission/raven-logos/blob/master/1024.png)
 ![1024_svg](https://github.com/ShortsellerEnrichmentCommission/raven-logos/blob/master/1024.svg)
 
-## Orange 'R Raven' Logos
+## Orange 'R' Logos
 ![16_r_orange_png](https://github.com/ShortsellerEnrichmentCommission/raven-logos/blob/master/16_r_orange.png)
 ![16_r_orange_svg](https://github.com/ShortsellerEnrichmentCommission/raven-logos/blob/master/16_r_orange.svg)
 ![129_r_orange_png](https://github.com/ShortsellerEnrichmentCommission/raven-logos/blob/master/129_r_orange.png)
